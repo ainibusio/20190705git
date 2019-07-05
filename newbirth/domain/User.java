@@ -13,5 +13,6 @@ public class User {
     private Integer age;
     private String email;
     private String address;
+    private String company;
 
 }
