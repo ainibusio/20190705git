@@ -31,8 +31,7 @@ public class HelloController {
         String s = JSON.toJSONString(user);
         ops.set("redis-user", s);
         ops.set("redis-string1","sir");
-        ops.set("redis-string2","ma");
-        ops.set("redis-string3","xue");
+        ops.set("today","20190705");
         return user;
     }
     @Bean
