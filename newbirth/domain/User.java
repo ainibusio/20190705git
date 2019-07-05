@@ -14,6 +14,4 @@ public class User {
     private String email;
     private String address;
     private Integer hours;//工作时长;
-    private String company;
-
 }
