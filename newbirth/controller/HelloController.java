@@ -34,6 +34,7 @@ public class HelloController {
         ops.set("today","20190705");
 
         int i=0;
+        System.out.println(1);
         return user;
     }
 
