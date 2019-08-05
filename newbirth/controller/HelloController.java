@@ -33,7 +33,7 @@ public class HelloController {
         ops.set("redis-string1","sir");
         ops.set("today","20190705");
 
-
+        int i=0;
         return user;
     }
 
