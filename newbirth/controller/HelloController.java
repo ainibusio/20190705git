@@ -34,7 +34,7 @@ public class HelloController {
         ops.set("redis-string1","sir");
         ops.set("today","20190705");
         System.out.println("tpl");
-        int i=1；
+        int i=1;
         return user;
     }
 
